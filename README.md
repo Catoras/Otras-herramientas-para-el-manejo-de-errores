@@ -35,3 +35,5 @@ El try catch y el de promesas si son codigo que puede ser utilizado y funciona; 
 - Try Catch:
   
   - Solo le hace falta un ambiente en el cual correr el codigo (HTML y conectarlo)
+
+El seccion de pullrequest se puede ver el pull request que hice para introducir el archivo pdf al repositorio.
